@@ -45,7 +45,7 @@ Before you begin, make sure you have the following installed:
 
    ```bash
    sudo apt install docker-compose
-   docker-compose up
+   docker compose up
    ```
 
 2. Access the Flask app in your web browser:
