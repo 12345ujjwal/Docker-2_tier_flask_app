@@ -115,6 +115,7 @@ docker run -d \
     flaskapp:latest
 
 ```
+<img width="1247" height="1009" alt="image" src="https://github.com/user-attachments/assets/3a999110-f08b-48d0-a7b9-f2126a77756f" />
 
 ## Notes
 
