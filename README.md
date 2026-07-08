@@ -51,7 +51,7 @@ Before you begin, make sure you have the following installed:
 2. Access the Flask app in your web browser:
 
    - Frontend: http://localhost:5000
-   - for EC2: http://<public ip>:5000
+   - for EC2: http://public ip:5000
 
 4. Interact with the app:
 
