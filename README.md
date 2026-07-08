@@ -116,6 +116,8 @@ docker run -d \
 
 ```
 <img width="1247" height="1009" alt="image" src="https://github.com/user-attachments/assets/3a999110-f08b-48d0-a7b9-f2126a77756f" />
+<img width="1546" height="91" alt="image" src="https://github.com/user-attachments/assets/5a06035d-a9d0-44f9-96cb-f1941411ae84" />
+
 
 ## Notes
 
