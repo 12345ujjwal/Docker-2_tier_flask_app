@@ -91,7 +91,7 @@ docker run -d \
     mysql:5.7
 
 ```
-ii) Backend container
+ii) Flask container
 ```bash
 docker run -d \
     --name flaskapp \
